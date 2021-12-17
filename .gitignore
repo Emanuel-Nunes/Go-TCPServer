@@ -1,0 +1,5 @@
+.vscode
+cpu.prof
+mem.prof
+*.log
+*.exe
